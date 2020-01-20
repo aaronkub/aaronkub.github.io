@@ -1,4 +1,3 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
+I'm a Data Scientist in the Healthcare industry. My primary interest is building robust and scalable Natural Language Processing (NLP) solutions.
