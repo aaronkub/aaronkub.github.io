@@ -7,7 +7,6 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Aaron Kub
-description: I use this blog primarily to make Data Science topics more concrete for myself.
 github_username: aaronkub
 
 # Email and twitter are optional:
@@ -15,10 +14,14 @@ email: aaronkub@me.com
 twitter_username: Aaron_Kub
 
 # Set this to true to get LaTeX math equation support
-use_math: 
+use_math: true
+
+minima:
+  skin: solarized-dark
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
+
 plugins:
   - jekyll-feed
   - jekyll-gist
